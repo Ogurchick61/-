@@ -1,8 +1,9 @@
 name = "Dima"
-print(name)
+print('name: ' + name)
 age = 28
-print(age)
-New_Age = (28 + 1)
-print(New_Age)
+print('age:' , age)
+age = age+1
+new_age = 29
+print('new_age:' , age)
 Is_student = True
-print(Is_student)
+print('Is_student:' , Is_student)
